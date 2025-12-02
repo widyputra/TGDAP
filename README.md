@@ -34,14 +34,11 @@ Processing report
 Error statistics (repeatability, drift residuals, closure errors)
 
 **Project Structure**
-TGDAP/
-│
-├── data_raw/           # Raw gravity readings
-├── data_processed/     # Corrected & filtered datasets
-├── scripts/            # Processing scripts (Python, AWK, etc.)
-├── docs/               # Technical documentation
-├── results/            # reports
-└── README.md           # This file
+TGDAP\data_raw\           # Raw gravity readings
+TGDAP\scripts\            # Processing scripts (Python, AWK, etc.)
+TGDAP\docs\               # Technical documentation [available soon]
+TGDAP\results\            # reports
+└── README.md             # This file
 
 **Tools & Software**
 
