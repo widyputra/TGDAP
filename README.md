@@ -49,7 +49,3 @@ Recommended tools typically used in TGDAP:
 AWK (for field-style batch data restructuring)
 Custom processing scripts
 
-**Contact**
-
-For questions, collaboration, or technical support:
-Project Lead: Widy
