@@ -35,10 +35,10 @@ Error statistics (repeatability, drift residuals, closure errors)
 
 **Project Structure**
 TGDAP\data_raw\           # Raw gravity readings <br>
-TGDAP\scripts\            # Processing scripts (Python, AWK, etc.)
-TGDAP\docs\               # Technical documentation [available soon]
-TGDAP\results\            # reports
-└── README.md             # This file
+TGDAP\scripts\            # Processing scripts (Python, AWK, etc.) <br>
+TGDAP\docs\               # Technical documentation [available soon] <br>
+TGDAP\results\            # reports <br>
+└── README.md             # This file <br>
 
 **Tools & Software**
 
