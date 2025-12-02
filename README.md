@@ -46,6 +46,5 @@ TGDAP/
 **Tools & Software**
 
 Recommended tools typically used in TGDAP:
-AWK (for field-style batch data restructuring)
-Custom processing scripts
+AWK (for field-style batch data restructuring) and Custom processing scripts
 
